@@ -1,4 +1,9 @@
-# 👨🏾‍💻 Lucas Gomes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"/>
+
+https://readme-typing-svg.demolab.com/demo/?color=FBF5F3&lines=%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB+Lucas+Gomes;Desenvolvedor+Back-End
+<div align = "center" width = "100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBF5F3&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB+Lucas+Gomes;Desenvolvedor+Back-End)](https://git.io/typing-svg)
+</div>
 
 **`Desenvolvedor de Software`**
 
