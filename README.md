@@ -38,7 +38,7 @@ Olá! Sou o **Lucas Gomes**, desenvolvedor focado em construir soluções robust
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CGomesLucas&bg_color=0d1117&color=dd0afc&line=dd0afc&point=fff&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
-## 📫 Vamos nos conectar?
+## 📫 Vamos nos conectar??
 
 <div align="center">
   <a href="mailto:cruzlucasads1@gmail.com" target="_blank">
